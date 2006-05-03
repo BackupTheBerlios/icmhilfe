@@ -1,0 +1,100 @@
+#LyX 1.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 221
+\textclass extbook
+\language german
+\inputencoding auto
+\fontscheme default
+\graphics default
+\paperfontsize default
+\spacing single 
+\papersize a4paper
+\paperpackage a4
+\use_geometry 0
+\use_amsmath 0
+\use_natbib 0
+\use_numerical_citations 0
+\paperorientation portrait
+\secnumdepth 5
+\tocdepth 5
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\quotes_times 2
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+
+\layout Title
+
+Ausfallskonzept ICM/Recall
+\layout Standard
+
+Serverraum
+\newline 
+Beim Neustart der Rechner wird zuerst der Recall_Srv, dann der Medidata-Rechner
+ gestartet.
+\newline 
+Automatisch wird der HL7 Nachts neu gestartet.
+\newline 
+
+\newline 
+Finden sich in der Anzeige 
+\begin_inset Quotes eld
+\end_inset 
+
+unbearbeitete Messages
+\begin_inset Quotes erd
+\end_inset 
+
+ muss HL7 neu gestartet werden.
+\newline 
+
+\newline 
+Der Medidata Server startet immer gegen 23:30 Uhr neu.Sollten Probleme (wie
+ fehlende Vital- oder Evitatdaten) auftreten, muss neu gestartet werden.Nach
+ dem Neustart ist nur die Medidata Shell offen.Das in der Taskleiste befindliche
+ Menü kann Auskünfte über die einzelnen Verbindungen geben.
+\newline 
+
+\newline 
+Der RecallServer zeigt um die 60 % Prozessorlast im Maximum an..Bei Problemem
+ im Menü Zubehör Den Ereignismanager aufrufen.
+\newline 
+die perflib Problematik ist bekannt!!
+\layout Standard
+
+Die Textdatei auf dem Desktop ist die Kommunikationschnittstelle mit Dräger!!
+\newline 
+
+\newline 
+Der Admin PC 
+\layout Standard
+
+Meldet eine Recall WS dass man nicht angemeldet werden kann, da die WS gerade
+ benutzt wird, muss man im Menü Programme Recall das Recall Setup aufrufen
+\newline 
+Login:S
+\newline 
+PW: 
+\newline 
+auf der Oberfläche ist es möglich die einzelnen WS zu entsperren.
+\newline 
+
+\newline 
+Auf dem Admin PC sollten die 4 Recall Fenster laufen(AIMS Mailboxing,Recall
+ Interface,TCP/IP Interface und noch eines)
+\newline 
+
+\newline 
+Sollte es Schwierigkeiten geben ist der 
+\begin_inset Quotes eld
+\end_inset 
+
+Blaue Draht
+\begin_inset Quotes erd
+\end_inset 
+
+ anzurufen.Der Auftrag ist sehr dringend zu machen!!
+\newline 
+
+\the_end
