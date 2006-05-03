@@ -1,0 +1,45 @@
+INFUSION/TRANSFUSION 2
+(3) Blut/Derivate >5/24h
+(4) Blut/Derivate >10/24h
+(4) Thrombozyten/Gerinnungsfaktoren
+MEDIKATION 1
+(3) aktive Antikoagulation
+(3) akute  Antikoagulation (i.v.)
+(1) chron.  Antikoagulation (s.c.)
+(3) i.v.-Antibiotika >1
+(1) i.v.-Antibiotikum <2
+(1) geplante i.v.-Gaben
+(3) nicht gepl. i.v.-Gaben
+MEDIKATION 2
+(3) schnelle Digitalisierung
+(3) Krampftherapie
+(2) Somatostatin-Perf.
+(3) Alkalose/Acidose
+PFLEGE 1
+(2) Spontanatmung/Tub/TK
+(1) O2-Maske
+(1) physik.Lungenpflege
+(2) Mobilisation
+(3) Intubation (24h)
+(2) Tracheotomie (48h)
+(3) endotrach. Absaugen
+PFLEGE 2
+(1) periph. Verweilkanüle
+(2) 2 periph Verweilkanülen
+(1) gastrointest. Sonde
+(2) Sondenernährung
+(1) Hilfe b. Nahrungsaufn.
+(1) Blasenkatheter
+(2) abführende Maßnahmen
+PFLEGE 3
+(1) Waschen/Betten/Routine
+(2) Häufiges Betten
+(4) Betten über 100kg
+(4) Versorgung Verstorben.
+(4) Transp.Beatm/Diagnostik
+(2) Transp. z. Diagnostik
+PFLEGE 4
+(1) Decubitusbehandlung
+(1) Aufwändige Wundbehandl.
+(1) Stomaversorgung
+(3) Warm/Cooltouch

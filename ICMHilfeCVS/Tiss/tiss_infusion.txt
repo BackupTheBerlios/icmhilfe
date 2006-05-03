@@ -1,0 +1,41 @@
+INFUSION/TRANSFUSION 1:
+Periph. parenterale Ernährung= Glucose-Lsg und/oder Aminosäuren über periphere Verweilkanülen
+
+Infusionstherapie/ZVK=              Zentralvenös verabreichte Infusionen
+
+Zusätzliche Infusionen=               alle Infusionen die nachträglich oder zusätzlich zum angeordneten
+                                                      Programm (Kurve oder Anästhesieprotokoll) angehängt werden
+
+Kaliuminfusionen=                       > 40 mval KCL/24h
+
+Vasoaktive Substanzen <2=       1 Substanz wie z.B.: Katecholamine, Nitro !!kein Bupivacain!!
+
+Vasoaktive Substanzen >1=        mehr als eine dieser Substanzen
+
+Antiarrhythmika=                        i.v. (Lopresor, Isoptin, Gilurythmal, Xylocain, Cordarex, Rhythmonorm) 
+
+INFUSION/TRANSFUSION 2:
+Blut/Derivate >5/24h=    z.B.: Eigenblut, Fremd-EK`s, FFP, Humanalbumin
+
+Thrombozyten=               z.B.:Thrombozytenkonzentrate, AT III, PBSB
+
+MEDIKATION 1:
+aktiveAntikoagulation=  Lyse (Metalyse, Rapilysin) !!auch Lyse in Ambulanz oder NAW!!
+
+akute Atikoagulation  =   i.v. oder s.c.,  Heparin i.v. über 10.000 IE, Aggrastat, Integrilin, Clexane usw.
+                                                    !!!!! Therapeutische Gaben!!!!
+
+chron. Antikoagulation=   i.v. oder s.c., Heparin unter 10.000 IE, Clexane, Fraxiparin, Innohep
+                                                    !!!!! Prophylaktische Gaben!!!!
+
+geplante i.v.-Gaben=       Alle i.v.-Medikamente, die ursprünglich auf dem Tagesprogramm (Kurve oder 
+                                          Anästhesieprotokoll) angeordnet sind
+
+nicht geplante i.v.-Gaben= alle außerplanmäßigen, später angesetzten Medikamente (auch  Bedarf)
+
+MEDIKATION 2:
+schnelle Digitalisierung= Aufdigitalisierung  i.v.
+
+Krampftherapie=              Rivotril, Trapanal, Diazepam, Phenhydan
+
+Alkalose/Acidose=            Natriumbicarbonat, Triss-Puver

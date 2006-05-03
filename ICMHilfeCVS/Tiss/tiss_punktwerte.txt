@@ -1,0 +1,39 @@
+DIAGNOSTIK 1
+(1) EKG-Monitoring
+(2) ZVD
+(3) arterieller Katheter
+(4) Pulmonalis-Katheter
+(3) HZV-Messung
+(1) Standard-Labor
+(3) mehrfaches Labor
+DIAGNOSTIK 2
+(1) Standard-Bilanz
+(3) Umfangreiche Bilanz
+(4) Not-Endoskopie
+(3) Bronchoskopie
+THERAPIE 1
+(4) kontrol. Beatmung
+(3) ass. Beatmung
+(3) CPAP
+(3) Thoraxdrainage
+(3) Thorax/Pericardpkt.NF
+(3) Kardioversion
+(4) CPR+od.Defibrillation
+THERAPIE 2
+(3) Schrittmacher/inaktiv
+(4) Schrittmacher aktiv
+(4) Notfall-OP (24h)
+(3) kompliz. Lagerung
+(1) Lagerungsroutine
+(4) Ballontamponade
+THERAPIE 3
+(3) hochdosierte diuretische Therapie
+(3) Hämofiltration CVVH
+INFUSION/TRANSFUSION 1
+(1) periph.parent.Ernährung
+(3) zentrale Infusionstherapie
+(2) Infusionen zusätzlich
+(3) Kaliuminfusionen
+(3) vasoaktive Subst. <2
+(4)  vasoaktive Subst.>1
+(3) Antiarrhythmika

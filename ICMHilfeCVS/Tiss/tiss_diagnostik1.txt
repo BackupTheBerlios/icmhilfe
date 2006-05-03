@@ -1,0 +1,39 @@
+DIAGNOSTIK 1:
+Standard-Labor=     Routine am Morgen
+
+mehrfaches Labor= Zusatzkontrollen, BZ-Stixe
+
+DIAGNOSTIK 2:
+Standard-Bilanz=       18:00 und 6:00 Bilanzierung
+
+umfangreiche Bilanz= 6stdl. Bilanz, Hämofiltration, parenterale Ernährung, Infusionsprogramm über 2,5l
+
+Notfall-Endoskopie=  Endoskopie bei uns auf der Station
+
+THERAPIE 1:
+Kontrollierte Beatmung= IPPV, BIPAP
+
+Ass. Beatmung=               CPAP-ASB,CPAP,B-Synchro,PPS
+
+CPAP=                              M-CPAP, N-CPAP
+
+THERAPIE 2:
+Schrittmacher (inaktiv)= Liegende SM-Sonde oder SM-Elektroden bei ausgeschaltetem Gerät(gilt nicht 
+                                         für implantierte Geräte)
+
+Schrittmacher (aktiv)=    Passagere oder neu implantierte SM, transthorakale SM
+
+Notfall-OP (24h)=            Re-Lap ,Herzkatheter, PTCA, Second-Look
+
+Lagerung kompliziert=    z.B.: Bauch- und Schwimmerlage, Lagerung von TEP-Pat., öfter als 2stdl. Lagerung,
+                                         Extension, totale Immobilisation(WS-Verletzung, Beckenringfraktur usw.), 
+                                         Quinken
+
+Lagerungsroutine=          z.B.: 2stdl. Lagerung zur Dekubitusprophylaxe
+
+Ballon-Tamponade=        Linton-Nachlass-Sonde, Sengstaken-Sonde
+
+THERAPIE 3:
+Hochd. diuret. Theraoie= über 120mg Furosemid/24h
+
+Hämofiltration (CVVH)= Hämofiltration mit "Prisma"

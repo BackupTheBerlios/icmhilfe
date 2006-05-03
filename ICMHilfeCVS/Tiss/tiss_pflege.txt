@@ -1,0 +1,27 @@
+PFLEGE 1:
+Spontanatmung/Tubus/TK= "Feuchte Nase"
+
+O2-Maske=    Sauerstoffmaske oder Nasensonde
+
+physikalische Lungenpflege=  PT, Vibrax, AktivGel, Gibelrohr, Triflow
+
+PFLEGE 2:
+Blasenkatheter=  DK, SPK, EK
+
+abführende Maßnahmen= Klysma, Einläufe
+
+PFLEGE 3:
+Waschen/Betten/Rout.=  routinemäßiges Waschen, Betten 1x pro Schicht
+
+häufiges Betten=  mehr als ein Mal Waschen, Hochziehen, Wäschewechsel, Glattziehen 
+
+Transport Beatmeter=  Transport von intubierten oder tracheotomierten Patienten zur Diagnostik
+                                         (z.B.: CT, Herzkatheter)
+
+Transport zur Diagnostik=  Transport von Patienten zur Diagnostik (z.B.: CT, Herzkatheter)
+
+PFLEGE 4:
+Dekubitus-Behandlung=   Von der Lagerung bis zum Verband
+
+aufwändige Wundbehandlung= Mehr als routinemäßiger VW (Häufigkeit, Hautschutzplatten, 
+                                                    Spülung, VAC-Therapie usw.)           
