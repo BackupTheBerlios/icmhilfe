@@ -1,8 +1,8 @@
 <html>
 <!--
 $Author: svens $
-$Date: 2006/05/08 19:43:59 $
-$Revision: 1.2 $
+$Date: 2006/06/19 21:47:21 $
+$Revision: 1.3 $
 -->
 <head>
 <TITLE>Ausfallskonzept</TITLE>
@@ -43,6 +43,12 @@ $Revision: 1.2 $
 <td align=center>Medidata Server l&auml;uft nicht
 <td align=center>Problem betrifft alle Workstations
 <td align=center>im Serverraum Neustart des Medidata Servers
+
+<tr>
+<td align=center>Ausdrucken von einer Workstation geht nicht
+<td align=center>ICM läuft unter Administratorzugang an WinNT
+<td align=center>"Error 486" wird grauem Bildschirmhintergrund mit rotem Rand angezeigt
+<td align=center>Administrator verständigen,Fehler bestätigen,ICM beenden, Rechner neu starten
 
 </td></h5>
 </tr>
@@ -100,6 +106,30 @@ zum Drucken darf der PC zum Zeitpunkt des Druckens nicht benutzt werden,dies blo
 <td align=center>
 <td align=center>
 <td align=center>
+
+</td></h5>
+</tr>
+</table>
+<center>
+
+<center>
+<br>
+<center><b>f&uuml;r Admins</b>
+
+<table border=1>
+<h5>
+<tr>
+<td align=center><b>Problem</b>
+<td align=center><b>m&ouml;gliche Ursache</b>
+<td align=center><b>Fehlererkennung,Bemerkungen
+<td align=center><b>L&ouml;sungsm&ouml;glichkeit</b>
+
+
+<tr>
+<td align=center>archivierte Patientendaten der Tageskurve werden auf einer WS nicht angezeigt 
+<td align=center>CacheTemp Files Verzeichnis in ICM verbraucht notwendige RAM Ressourcen
+<td align=center>
+<td align=center>Dateien im Verzeichnis c:\ICM\CacheTemp\ l&ouml;schen
 
 </td></h5>
 </tr>
